@@ -1,5 +1,19 @@
-1. Historical Evolution of Online Privacy Norms  
-2. The Role of Government and Policy in Shaping Privacy  
-3. Corporate Influence and the Commodification of Data  
-4. Generalisation and Cultural Differences in Privacy Perception  
-5. Future of Online Privacy: Ethics, AI and Social Trust
+Emily (Societal) 
+
+
+
+(1. Historical Evolution of Online Privacy Norms) 
+
+Historically, the US Government first started collecting data on citizens in the early 1960s. This data was collected for a multitude of reasons; tax, law enforcement etc. When the World Wide Web became operational to the public domain in 1993 (Ring, 2023), it changed how businesses and the government could collect and look at user data. This has led to new privacy concerns. Online privacy norms have evolved from focusing on physical intrusion to managing extensive data collection and interconnectedness. Prior the 21st century with the ‘Open Internet’ (Internet Law Program, 2011), online spaces were relatively anonymous with weak regulations. Many users under names that hid their identity (Tadlock, 2019), and their personal details only released to other users directly. In a modern online era, user information is both fairly regulated yet publicised simultaneously especially with the development of terms and conditions and cookies. T&Cs act as a strategic barrier: by overwhelming users with excessive legal detail that we all accept in assimilation (Kitowska, 2022), companies secure consent for practices that users might reject if the terms were clear and accessible which leads us to question their strength at protecting us. Yet the real threat to our online privacy are the social norms equated to its use. Plastering on Instagram and TikTok our daily lives and schedules, what we are eating/wearing, where we are. We transitioned from a social media with anonymity to voluntarily being fooled into sharing intimate relations and activities with strangers out of conformity.
+
+
+
+(2. Cultural and Social Attitudes) 
+
+Cultural norms strongly shape how people interpret privacy risks and what feels “normal” to share. Older generations often associate privacy with secrecy, modesty, and clear boundaries between home and public life (Nyanzi, 2025), while many 'Gen Z’ users have grown up with social media and see constant sharing as routine, even expected. It is almost concerning if you are not sharing your life publicly nowadays. In fact, it is almost concerning to not be chronically online sharing your every moment. At the same time, the “nothing to hide” idea coexists with anxiety about stalking, doxxing, and reputational damage (Worsley et al., 2017). With ‘Cancel Culture’ in a modern media era (EBSCO Research, 2024), it is almost vital to disclose all aspects of one’s life to prevent social destruction which oftens expands further than online media reaching public humiliation. Primarily in western culture, sharing online can be profitable with TikTok introducing subscriptions: a monetisation feature allowing creators to offer exclusive perks to followers who pay a recurring monthly fee (Agnikii Digital, 2024). These exclusive perks can include more intimate information and videos shared. Online privacy is now an asset to profit off. Social platforms blur lines between public and private by encouraging disclosure to broad, mixed audiences. The design - Instagram stories, TikTok and Instagram “what’s on your mind?” prompts (figure 1) - encourages regular disclosure as a normal, even expected, part of social life. People constantly negotiate what to post, who can see it, and how their self‑presentation will be judged by peers, employers, and institutions and online privacy is negotiated based on social norms, not just individual preference (Sustainability Directory).
+
+
+
+(3. Future of Online Privacy: Ethics, AI and Social Trust) 
+
+Emerging technologies such as AI and biometric systems amplifies ethical questions about online privacy and social trust. AI systems depend on massive datasets (Concord, no date), increasing incentives for continuous collection to fuel these AI algorithms and repurposing of personal information, often in ways individuals cannot foresee, such as agreeing to unknown terms and conditions simply to obtain access to a website. Society as a community must respond demanding privacy‑enhancing technologies, stronger regulation, clearly articulated uses of data, new norms around transparency and accountability for data uses. New social media norms are essential to a change in online privacy at the hands of the user. The future of online privacy will depend on whether institutions can show that they can be trusted with data and on how much people believe that digital systems value their right to privacy, fairness, and democratic participation.  
