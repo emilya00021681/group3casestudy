@@ -40,4 +40,9 @@ Social media platforms like TikTok encouraged public sharing through stories and
 ---
 
 ## References
-Ring (2023), Tadlock (2019), Internet Law Program (2011), Privacy International (2021), Greenwald (2013), Kitowska (2022)
+Ring (2023)
+Tadlock (2019)
+Internet Law Program (2011)
+Privacy International (2021)
+Greenwald (2013)
+Kitowska (2022)
