@@ -9,5 +9,32 @@ Additionaly, users are often not aware what is being done with their data and wh
 Such a case happened with Facebook in 2018, where a political analytics firm had used an external application to pay users to partake in a personality quiz. Unbeknownst to these users, their information and that of themselves was being used to create psychological profiles on users based on their liked posts and other sensitive information, such as their home addresses, and use this information for political campaigns. (University of Greater Manchester, 2021) The end users were giving uninformed consent, leading to their data being used in ways that had neither foreseen nor intended. 
 
 For privacy and security to be protected in today’s society, the current laws surrounding privacy protection, such as the General Data Protection Regulation (GDPR) need to be revised and/or adjusted. Stricter laws must be put in place about exceeding how much of the end user's data is required for the organisation to operate and where thiss data is being stored and sent. The requirements Organisations should have to meet to be allowed to store and use sensitive information should be more demanding and less indefinite (E.g requiring a Security Certificate)
+It should also be a requirement for Organasations to be more transparent with their cookies, allowing users to reject them in bulk without access to the website being revoked or locked behind a paywall, as is the case for some websites where a monthly or yearly fee must be paid in order for certain cookies to remain disabled. "Consumers seeking to protect their personal data while browsing are confronted with the dilemma: pay up or surrender your privacy through cookie paywalls. Accept or reject and incur a subscription fee to opt out – a decision that could cost up to $75 per year for a single site."(Syrenis, 2024) These are not currently explicitly illegal, but should not be allowed if there is to be protection of the User's privacy in the future. Websites be required to use a free, clear, and accessible display of the data they collect and allow the user to opt out of as much of this data as possible if they so choose.
 
-It should also be a requirement for Organasations
+​Mary Karapetyan (2024, 06, 24) Ethics of Data Sharing and Digital Privacy. 
+Available at:
+​https://vce.usc.edu/volume-7-issue-2/ethics-of-data-sharing-and-digital-privacy/ 
+
+​ 
+
+​University of Greater Manchester (2021/04/19) The Cambridge Analytica Scandal and What It Teaches Us 
+​Available at:
+​https://greatermanchester.ac.uk/blogs/the-cambridge-analytica-scandal-and-what-it-teaches-us 
+
+​ 
+
+​Santa Clara University (2013, 02, 04) The Ethics of Online Privacy Protection 
+​Available at:
+​https://www.scu.edu/ethics/privacy/the-ethics-of-online-privacy-protection/ 
+
+​ 
+
+​Natallia Sakovich (No Date) The Importance of Data Collection in Healthcare and Its Benefits 
+​Available at:
+​https://sam-solutions.com/blog/the-importance-of-data-collection-in-healthcare/ 
+
+​ 
+
+​Syrenis (2024, 01, 29) Are cookie paywalls "pay or okay" compliant? 
+​Available at:
+​https://syrenis.com/resources/blog/are-cookie-paywalls-pay-or-okay-compliant/ 
